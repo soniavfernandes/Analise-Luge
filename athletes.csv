@@ -1,0 +1,128 @@
+﻿athlete_id,athlete_name,date_of_birth,country_sport_id
+1,Armin Zöggeler,04/01/1974,Italy
+2,Georg Hackl,09/09/1966,Germany
+3,Markus Prock,22/06/1964,Austria
+4,Adam Heidt,11/10/1977,United States
+5,Albert Demchenko,27/11/1971,Russia
+6,Karsten Albert,13/10/1968,Germany
+7,Denis Geppert,24/01/1976,Germany
+8,Markus Kleinheinz,27/08/1976,Austria
+9,Wilfried Huber,15/11/1970,Italy
+10,Reiner Margreiter,26/06/1975,Austria
+11,Kyle Connelly,22/04/1980,Canada
+12,Reinhold Rainer,29/08/1973,Italy
+13,Stefan Höhener,13/06/1980,Switzerland
+14,Chris Moffat,22/09/1979,Canada
+15,Johan Rousseau,08/11/1978,France
+16,Jaroslav Slavík,29/01/1976,Slovakia
+17,Tony Benshoof,07/07/1975,United States
+18,Yann Fricheteau,14/06/1974,France
+19,Tyler Seitz,13/08/1976,Canada
+20,Viktor Kneib,19/04/1980,Russia
+21,Aleksey Gorlachov,06/05/1981,Russia
+22,Nauris Skaraustins,12/09/1978,Latvia
+23,Bengt Walden,15/04/1976,Sweden
+24,Reto Gilly,18/01/1972,Switzerland
+25,Mark Hatton,28/03/1973,United Kingdom
+26,Nick Sullivan,21/06/1979,United States
+27,Shigeaki Ushijima,12/07/1977,Japan
+28,Anders Söderberg,08/07/1971,Sweden
+29,Guntis Raris,03/11/1974,Latvia
+30,Michal Kvicala,24/01/1981,Czech Republic
+31,Christopher Hoeger,15/01/1985,Venezuela
+32,Cristian Stanciu,29/12/1973,Romania
+33,Shiva Keshavan,25/08/1981,India
+34,Marian Tican,29/05/1978,Romania
+35,Lubomír Mick,17/05/1978,Slovakia
+36,Lee Hak-jin,20/08/1985,South Korea
+37,Patrick Singleton,15/10/1974,United Kingdom
+38,Constantin-Liviu Cepoi,25/04/1969,Romania
+39,Julio Cesar Camacho,09/05/1978,Venezuela
+40,Werner Hoeger,15/12/1963,Venezuela
+41,Rubén González,26/07/1962,Argentina
+42,Kim Min-Kyu,11/08/1983,South Korea
+43,Marcelo Gonzalez,24/11/1965,Argentina
+44,Levan Gureshidze,21/09/1988,Georgia
+45,Eugen Radu,16/03/1978,Romania
+46,Ricardo Raschini,14/05/1974,Brazil
+47,Renato Mizoguchi,27/09/1975,Brazil
+48,Lin Chui-bin,02/12/1977,China
+49,Li Chia-hsun,05/07/1976,China
+50,Lee Chang-yong,15/02/1985,South Korea
+51,Martiš Rubenis,26/09/1978,Latvia
+52,David Möller,13/01/1982,Germany
+53,Jan Eichhorn,08/05/1981,Germany
+54,Daniel Pfister,07/12/1986,Austria
+55,Jeff Christie,02/02/1983,Canada
+56,Adam Rosen,12/04/1984,United Kingdom
+57,Kaspars Dumpis,23/12/1983,Latvia
+58,Jonathan Myles,24/07/1982,United States
+59,Samuel Edney,29/06/1984,Canada
+60,Takahisa Oguchi,11/01/1979,Japan
+61,Guntis Rekis,03/11/1974,Latvia
+62,Jozef Ninis,29/06/1981,Slovakia
+63,Christian Niccum,27/01/1978,United States
+64,Kiril Serikov,12/06/1982,Russia
+65,Domen Pociecha,21/10/1985,Slovenia
+66,Jakub Hyman,16/04/1984,Czech Republic
+67,Ma Chih-Hung,05/11/1985,China
+68,Bogdan Macovei,28/01/1983,Moldova
+69,Peter Iliev,11/06/1984,Bulgaria
+70,Jaroslav Slavik,28/01/1976,Slovakia
+71,Ian Cockerline,22/02/1984,Canada
+72,Felix Loch,24/07/1989,Germany
+73,Andi Langenhan,01/10/1984,Colombia
+74,Wolfgang Kindl,18/04/1988,Austria
+75,Manuel Pfister,04/12/1988,Austria
+76,Chris Mazdzer,26/06/1988,United States
+77,David Mair,21/08/1984,Italy
+78,Inars Kivlenieks,04/07/1986,Latvia
+79,Stepan Fedorov,08/05/1987,Russia
+80,Thomas Girod,06/06/1983,France
+81,Maciej Kurowski,19/06/1986,Poland
+82,Ondrej Hyman,25/02/1986,Czech Republic
+83,Valentin Cretu,09/09/1989,Romania
+84,Lee Yong,23/06/1978,South Korea
+85,Ivan Papukchiev,09/07/1986,Bulgaria
+86,Aleksander Peretyagin,02/02/1992,Russia
+87,Gregory Carigiet,03/03/1987,Switzerland
+88,Thor Haug Nørbech,29/12/1988,Norway
+89,Tønnes Stang Rolfsen,21/01/1988,Norway
+90,Kristaps Maurins,05/05/1991,Latvia
+91,Aidan Kelly,06/09/1994,United States
+92,John Fennell,28/05/1995,Canada
+93,Andriy Kis,27/05/1982,Ukraine
+94,Valentin Cretu,09/09/1988,Romania
+95,Hidenari Kanayama,26/09/1990,Japan
+96,Bruno Banani,04/12/1987,Tonga
+97,Jo Alexander Koppang,10/07/1988,Norway
+98,Kim Dong-hyeon,24/09/1991,South Korea
+99,Stanislav Benyov,19/04/1991,Bulgaria
+100,David Gleirscher,23/07/1994,Austria
+101,Johannes Ludwig,14/02/1986,Germany
+102,Dominik Fischnaller,20/02/1993,Italy
+103,Kevin Fischnaller,02/12/1993,Italy
+104,Roman Repilov,05/03/1996,Russia
+105,Kristers Aparjods,24/02/1998,Latvia
+106,Reid Watts,22/12/1998,Canada
+107,Semen Pavlichenko,11/05/1991,Russia
+108,Reinhard Egger,11/09/1989,Austria
+109,Mitchel Malyk,07/10/1995,Canada
+110,Emanuel Rieder,01/10/1993,Italy
+111,Taylor Morris,04/06/1991,United States
+112,Inars Kivlenieks,04/07/1986,Latvia
+113,Anton Dukach,30/07/1995,Ukraine
+114,Arturs Darznieks,20/04/1993,Latvia
+115,Tucker West,15/06/1995,United States
+116,Mateusz Sochowicz,28/02/1996,Poland
+117,Alexander Ferlazzo,03/04/1995,Australia
+118,Lim Nam-kyu,01/09/1989,South Korea
+119,Andrei Turea,11/10/1998,Romania
+120,Giorgi Sogoiani,07/07/1997,Georgia
+121,Rupert Staudinger,15/07/1997,United Kingdom
+122,Jakub Šimo,05/06/1996,Slovakia
+123,Nikita Kopyrenko,14/03/1998,Kazakhstan
+124,Pavel Angelov,17/09/1991,Bulgaria
+125,Lien Te-an,29/10/1994,China
+126,Tilen Sirše,21/12/1990,Slovenia
+127,Andriy Mandziy,19/02/1988,Ukraine
